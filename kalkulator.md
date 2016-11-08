@@ -1,0 +1,28 @@
+# Ola
+-wlacz aplikacje  "kalkulator.exe"
+-wyswietl panel kalkulatora
+-podaj licbe "0"
+-wybierz liczbe/liczby rozpoczynajacej działanie: liczba x
+-wybierz działanie
+--jezeli znak "+" to dodaj liczby
+--jezeli znak "-" to odejmij liczby
+--jezeli znak "*" to pomnoz liczby
+--jezeli znak "/" to podziel liczby
+--jezeli znak "%" to wykonaj funkcje procentu
+---wprowadz liczbe y
+----pokaz wynik
+--jesli (+/-) to pomnoz przez -1
+---pokaz wynik
+--jesli (1/x) to podziel 1 przez wczesniej wprowadzona liczbe
+---pokaz wynik
+--jesli pierwiastek: zpierwiastkuj liczbe x
+---wyswietl wynik
+--jezeli (MC) to kasuj liczbe z pamieci
+--jezeli (MR) to wyswietl liczbe z pamieci
+--jezeli (MS) to zapisz x w pamieci kalkulatora
+--jezeli (M+) to dodaj obliczona liczbe do zawartosci pamieci
+--jezeli (M-) to odejmij obliczona liczbe do zawartosci pamieci
+-jezeli chcesz skasowac ostatnie wyswietlanie cyfry uzyj (<--)
+-jezeli chcesz skasowac ostatnie działanie uzyj (C)
+-jezeli chcesz skasowac wszystko uzyj (CE)
+-jezeli "=" to pokaz wynik wszystkich poprzednich działan
